@@ -1,0 +1,16 @@
+.card{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;
+}
+
+.contact{
+    background-color: white;
+    
+}
+.new{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+body{
+    background-color: black;
+}
